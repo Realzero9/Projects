@@ -1,0 +1,8 @@
+C:\Projects\intro\02\ConsoleWrite\ConsoleWrite_03\bin\Debug\ConsoleWrite_03.exe.config
+C:\Projects\intro\02\ConsoleWrite\ConsoleWrite_03\bin\Debug\ConsoleWrite_03.exe
+C:\Projects\intro\02\ConsoleWrite\ConsoleWrite_03\bin\Debug\ConsoleWrite_03.pdb
+C:\Projects\intro\02\ConsoleWrite\ConsoleWrite_03\obj\Debug\ConsoleWrite_03.csproj.AssemblyReference.cache
+C:\Projects\intro\02\ConsoleWrite\ConsoleWrite_03\obj\Debug\ConsoleWrite_03.csproj.SuggestedBindingRedirects.cache
+C:\Projects\intro\02\ConsoleWrite\ConsoleWrite_03\obj\Debug\ConsoleWrite_03.csproj.CoreCompileInputs.cache
+C:\Projects\intro\02\ConsoleWrite\ConsoleWrite_03\obj\Debug\ConsoleWrite_03.exe
+C:\Projects\intro\02\ConsoleWrite\ConsoleWrite_03\obj\Debug\ConsoleWrite_03.pdb
