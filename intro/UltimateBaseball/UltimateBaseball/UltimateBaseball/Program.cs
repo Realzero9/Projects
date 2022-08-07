@@ -16,6 +16,14 @@ namespace UltimateBaseball
             Console.WriteLine("|숫자만 맞고 순서가 틀리면 볼입니다.                 |");
             Console.WriteLine("|숫자가 틀리면 아웃입니다.                           |");
             Console.WriteLine("+----------------------------------------------------+");
+
+            Console.WriteLine("> 수비수가 고른 숫자");
+            int number1 = 3;
+            int number2 = 1;
+            int number3 = 9;
+            Console.WriteLine(number1);
+            Console.WriteLine(number2);
+            Console.WriteLine(number3);
         }
     }
 }
