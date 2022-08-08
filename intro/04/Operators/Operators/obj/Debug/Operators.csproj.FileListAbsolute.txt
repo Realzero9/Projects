@@ -1,0 +1,8 @@
+C:\Projects\intro\04\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Projects\intro\04\Operators\Operators\bin\Debug\Operators.exe
+C:\Projects\intro\04\Operators\Operators\bin\Debug\Operators.pdb
+C:\Projects\intro\04\Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Projects\intro\04\Operators\Operators\obj\Debug\Operators.csproj.SuggestedBindingRedirects.cache
+C:\Projects\intro\04\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Projects\intro\04\Operators\Operators\obj\Debug\Operators.exe
+C:\Projects\intro\04\Operators\Operators\obj\Debug\Operators.pdb
