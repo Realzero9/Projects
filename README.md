@@ -1,7 +1,1 @@
-# Hello Programming
-
-## 커밋 규칙
-
-- 제목을 맨 윗줄에 쓴다.
-- 한 줄을 비워 놓는다.
-- 3번째 줄부터 상세내용을 간략히 쓴다.
+[Notion](https://www.notion.so/HelloCoding-04dbdde39bc24de6b8b1cf91ca6db261)

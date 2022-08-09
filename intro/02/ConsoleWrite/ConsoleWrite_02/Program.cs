@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleWrite_02
+namespace ConsoleWrite_2_2
 {
     internal class Program
     {
