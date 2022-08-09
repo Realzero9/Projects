@@ -1,0 +1,8 @@
+C:\Projects\intro\03\Constant\Q_2\bin\Debug\Q_2.exe.config
+C:\Projects\intro\03\Constant\Q_2\bin\Debug\Q_2.exe
+C:\Projects\intro\03\Constant\Q_2\bin\Debug\Q_2.pdb
+C:\Projects\intro\03\Constant\Q_2\obj\Debug\Q_2.csproj.AssemblyReference.cache
+C:\Projects\intro\03\Constant\Q_2\obj\Debug\Q_2.csproj.SuggestedBindingRedirects.cache
+C:\Projects\intro\03\Constant\Q_2\obj\Debug\Q_2.csproj.CoreCompileInputs.cache
+C:\Projects\intro\03\Constant\Q_2\obj\Debug\Q_2.exe
+C:\Projects\intro\03\Constant\Q_2\obj\Debug\Q_2.pdb

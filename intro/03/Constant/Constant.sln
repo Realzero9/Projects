@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constant", "Constant\Consta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q_1", "Q_1\Q_1.csproj", "{BECD0D30-F1EF-4D3A-A3B8-0BFC0B8A831C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q_2", "Q_2\Q_2.csproj", "{B44A0E71-D8F4-4CD3-8130-2772B3A4D8A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BECD0D30-F1EF-4D3A-A3B8-0BFC0B8A831C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BECD0D30-F1EF-4D3A-A3B8-0BFC0B8A831C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BECD0D30-F1EF-4D3A-A3B8-0BFC0B8A831C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B44A0E71-D8F4-4CD3-8130-2772B3A4D8A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B44A0E71-D8F4-4CD3-8130-2772B3A4D8A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B44A0E71-D8F4-4CD3-8130-2772B3A4D8A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B44A0E71-D8F4-4CD3-8130-2772B3A4D8A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

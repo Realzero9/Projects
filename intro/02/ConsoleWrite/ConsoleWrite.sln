@@ -5,13 +5,13 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleWrite", "ConsoleWrite\ConsoleWrite.csproj", "{14575B2A-73A0-4405-B171-452F1E4FF08A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleWrite_01", "ConsoleWrite_01\ConsoleWrite_01.csproj", "{6943799A-B2B1-46CC-A31A-B918C3DA7A32}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleWrite_2_1", "ConsoleWrite_01\ConsoleWrite_2_1.csproj", "{6943799A-B2B1-46CC-A31A-B918C3DA7A32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleWrite_02", "ConsoleWrite_02\ConsoleWrite_02.csproj", "{C0087C22-37C8-4E48-BF6F-F9D981869426}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleWrite_2_2", "ConsoleWrite_02\ConsoleWrite_2_2.csproj", "{C0087C22-37C8-4E48-BF6F-F9D981869426}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleWrite_03", "ConsoleWrite_03\ConsoleWrite_03.csproj", "{9272FD54-C414-4AF6-9F41-8C2AE2EB615F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleWrite_2_3", "ConsoleWrite_03\ConsoleWrite_2_3.csproj", "{9272FD54-C414-4AF6-9F41-8C2AE2EB615F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleWrite_04", "ConsoleWrite_04\ConsoleWrite_04.csproj", "{024E847E-D605-4BF8-A074-1C8011A0D292}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleWrite_3", "ConsoleWrite_04\ConsoleWrite_3.csproj", "{024E847E-D605-4BF8-A074-1C8011A0D292}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

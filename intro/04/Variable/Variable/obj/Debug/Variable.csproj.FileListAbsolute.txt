@@ -1,8 +1,0 @@
-C:\Projects\intro\04\Variable\Variable\bin\Debug\Variable.exe.config
-C:\Projects\intro\04\Variable\Variable\bin\Debug\Variable.exe
-C:\Projects\intro\04\Variable\Variable\bin\Debug\Variable.pdb
-C:\Projects\intro\04\Variable\Variable\obj\Debug\Variable.csproj.AssemblyReference.cache
-C:\Projects\intro\04\Variable\Variable\obj\Debug\Variable.csproj.SuggestedBindingRedirects.cache
-C:\Projects\intro\04\Variable\Variable\obj\Debug\Variable.csproj.CoreCompileInputs.cache
-C:\Projects\intro\04\Variable\Variable\obj\Debug\Variable.exe
-C:\Projects\intro\04\Variable\Variable\obj\Debug\Variable.pdb
