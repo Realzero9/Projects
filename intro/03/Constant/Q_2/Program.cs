@@ -13,9 +13,9 @@ namespace Q_2
             int a = 286;
             double b = 3.141592;
             string c = "문자열도 있음";
-            Console.WriteLine(286);
-            Console.WriteLine(3.141592);
-            Console.WriteLine("문자열도 있음");       // 심화 3-1
+            Console.WriteLine(a);
+            Console.WriteLine(b);
+            Console.WriteLine(c);       // 심화 3-1
 
             double number1 = 22.7;
             Console.WriteLine(number1);
