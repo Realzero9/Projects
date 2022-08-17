@@ -6,3 +6,11 @@ C:\Projects\intro\02\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.csproj.Sug
 C:\Projects\intro\02\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.csproj.CoreCompileInputs.cache
 C:\Projects\intro\02\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.exe
 C:\Projects\intro\02\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.pdb
+C:\Users\PC\Documents\Projects\intro\02\ConsoleWrite\ConsoleWrite\bin\Debug\ConsoleWrite.exe.config
+C:\Users\PC\Documents\Projects\intro\02\ConsoleWrite\ConsoleWrite\bin\Debug\ConsoleWrite.exe
+C:\Users\PC\Documents\Projects\intro\02\ConsoleWrite\ConsoleWrite\bin\Debug\ConsoleWrite.pdb
+C:\Users\PC\Documents\Projects\intro\02\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Projects\intro\02\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\Projects\intro\02\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Projects\intro\02\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.exe
+C:\Users\PC\Documents\Projects\intro\02\ConsoleWrite\ConsoleWrite\obj\Debug\ConsoleWrite.pdb
