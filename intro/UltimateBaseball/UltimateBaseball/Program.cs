@@ -38,30 +38,32 @@ namespace UltimateBaseball
             int guess3 = int.Parse(Console.ReadLine());*/
 
             int[] guesses = new int[3];
-            Console.WriteLine("> 첫 번째 숫자를 입력하세요.");
-            guesses[0] = int.Parse(Console.ReadLine());
-            Console.WriteLine("> 두 번째 숫자를 입력하세요.");
-            guesses[1] = int.Parse(Console.ReadLine());
-            Console.WriteLine("> 세 번째 숫자를 입력하세요.");
-            guesses[2] = int.Parse(Console.ReadLine());
 
-            /*Console.WriteLine("> 공격수가 고른 숫자");
-            Console.WriteLine(guess1);
-            Console.WriteLine(guess2);
-            Console.WriteLine(guess3);*/                                                          // 5-5
-
-            Console.WriteLine("> 공격수가 고른 숫자");
-            Console.WriteLine(guesses[0]);
-            Console.WriteLine(guesses[1]);
-            Console.WriteLine(guesses[2]);
-
-            /*if (guess1 == guess2 || guess1 == guess3 || guess2 == guess3)*/
-            if (guesses[0] == guesses[1] || guesses[0] == guesses[2] || guesses[1] == guesses[2])
+            while (true)
             {
-                Console.WriteLine("같은 숫자를 입력하면 안됩니다.");
-            }
-            else
-            {                                                                                   // 6-10
+                Console.WriteLine("> 첫 번째 숫자를 입력하세요.");
+                guesses[0] = int.Parse(Console.ReadLine());
+                Console.WriteLine("> 두 번째 숫자를 입력하세요.");
+                guesses[1] = int.Parse(Console.ReadLine());
+                Console.WriteLine("> 세 번째 숫자를 입력하세요.");
+                guesses[2] = int.Parse(Console.ReadLine());
+
+                /*Console.WriteLine("> 공격수가 고른 숫자");
+                Console.WriteLine(guess1);
+                Console.WriteLine(guess2);
+                Console.WriteLine(guess3);*/                                                          // 5-5
+
+                Console.WriteLine("> 공격수가 고른 숫자");
+                Console.WriteLine(guesses[0]);
+                Console.WriteLine(guesses[1]);
+                Console.WriteLine(guesses[2]);
+
+                /*if (guess1 == guess2 || guess1 == guess3 || guess2 == guess3)*/
+                if (guesses[0] == guesses[1] || guesses[0] == guesses[2] || guesses[1] == guesses[2])
+                {
+                    Console.WriteLine("같은 숫자를 입력하면 안됩니다.");
+                    continue;
+                }                                                                  // 6-10
 
                 int strikeCount = 0;
                 int ballCount = 0;
@@ -105,8 +107,13 @@ namespace UltimateBaseball
                 Console.WriteLine(ballCount);
                 Console.Write("아웃: ");
                 Console.WriteLine(3 - strikeCount - ballCount);                                     // 6-9
-            }
 
+                if (guesses[0] == numbers[0] && guesses[1] == numbers[1] && guesses[2] == numbers[2])
+                {
+                    Console.WriteLine("정답입니다!");
+                    break;
+                }
+            }
             /*Console.WriteLine("> 수비수가 다시 고른 숫자");
             number1 = 8;
             number2 = 2;

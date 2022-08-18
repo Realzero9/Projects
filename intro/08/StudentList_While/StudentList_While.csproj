@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CD492B4F-BFED-4A01-B097-C0C809C905FD}</ProjectGuid>
+    <ProjectGuid>{1E6F18A2-1336-42F8-B932-C4C71ED81217}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Q_1</RootNamespace>
-    <AssemblyName>Q_1</AssemblyName>
+    <RootNamespace>StudentList_While</RootNamespace>
+    <AssemblyName>StudentList_While</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

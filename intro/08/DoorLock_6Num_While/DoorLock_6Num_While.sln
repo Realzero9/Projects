@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoorLock_6Num_While", "DoorLock_6Num_While\DoorLock_6Num_While.csproj", "{4B3E5EB6-1999-4D8C-8D36-3F731CD0A86C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentList_While", "..\StudentList_While\StudentList_While.csproj", "{1E6F18A2-1336-42F8-B932-C4C71ED81217}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B3E5EB6-1999-4D8C-8D36-3F731CD0A86C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B3E5EB6-1999-4D8C-8D36-3F731CD0A86C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B3E5EB6-1999-4D8C-8D36-3F731CD0A86C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B3E5EB6-1999-4D8C-8D36-3F731CD0A86C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E6F18A2-1336-42F8-B932-C4C71ED81217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E6F18A2-1336-42F8-B932-C4C71ED81217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E6F18A2-1336-42F8-B932-C4C71ED81217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E6F18A2-1336-42F8-B932-C4C71ED81217}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B44D8083-8113-44B1-A38A-9D7CD62DCE07}
+	EndGlobalSection
+EndGlobal
