@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoorLock_6Num_While", "Door
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentList_While", "..\StudentList_While\StudentList_While.csproj", "{1E6F18A2-1336-42F8-B932-C4C71ED81217}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q_1", "..\Q_1\Q_1.csproj", "{BE48DEF5-254B-46AA-961F-B9AC029C8B48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q_2", "..\Q_2\Q_2.csproj", "{0A51572E-7B92-4B2F-85B8-222B96690458}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{1E6F18A2-1336-42F8-B932-C4C71ED81217}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E6F18A2-1336-42F8-B932-C4C71ED81217}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E6F18A2-1336-42F8-B932-C4C71ED81217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE48DEF5-254B-46AA-961F-B9AC029C8B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE48DEF5-254B-46AA-961F-B9AC029C8B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE48DEF5-254B-46AA-961F-B9AC029C8B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE48DEF5-254B-46AA-961F-B9AC029C8B48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A51572E-7B92-4B2F-85B8-222B96690458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A51572E-7B92-4B2F-85B8-222B96690458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A51572E-7B92-4B2F-85B8-222B96690458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A51572E-7B92-4B2F-85B8-222B96690458}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
