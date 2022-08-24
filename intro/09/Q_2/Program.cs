@@ -37,15 +37,31 @@ namespace Q_2
                 }
             }                                                                                   // 심화 9-1*/
 
-            int[] classes = new int[5];
-            int[] students = new int[10];
+            int classes = 5;
+            int students = 10;
+            double[] classScores = new double[classes];
 
-            for (int i = 0; i < classes.Length; i++)
+
+            for (int i = 0; i < classes; i++)
             {
-                for (int j = 0; j < students.Length; j++)
-                {
+                Console.Write("3학년");
+                Console.Write(i + 1);
+                Console.WriteLine("반 성적을 입력합니다.");
 
+                for (int j = 0; j < students; j++)
+                {
+                    Console.Write(j + 1);
+                    Console.WriteLine("번째 학생의 성적을 입력해주세요.");
+                    classScores[i] = classScores[i] + double.Parse(Console.ReadLine());
                 }
+            }
+            
+            for (int i = 0; i < 5; i++)
+            {
+                Console.Write("3학년 ");
+                Console.Write(i + 1);
+                Console.Write("반의 평균: ");
+                Console.WriteLine(classScores[i] / students);
             }                                                                                   // 심화 9-2
         }
     }

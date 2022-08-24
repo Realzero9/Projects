@@ -17,7 +17,7 @@ namespace UltimateBaseball
             Console.WriteLine("|숫자가 틀리면 아웃입니다.                           |");
             Console.WriteLine("+----------------------------------------------------+");             // 2-8
 
-            Console.WriteLine("> 수비수가 고른 숫자");
+            /*Console.WriteLine("> 수비수가 고른 숫자");*/
             /*int number1 = 3;
             int number2 = 1;
             int number3 = 9;*/
@@ -32,15 +32,41 @@ namespace UltimateBaseball
             Console.WriteLine("> 세 번째 숫자를 입력하세요.");
             int guess3 = int.Parse(Console.ReadLine());*/                                           // 5-5
 
-            int[] numbers = { 3, 1, 9 };
-            /*Console.WriteLine(numbers[0]);
+            /*int[] numbers = { 3, 1, 9 };
+            Console.WriteLine(numbers[0]);
             Console.WriteLine(numbers[1]);
             Console.WriteLine(numbers[2]);*/                                                        // 7-5
 
+            Random random = new Random();
+
+            int[] numbers = new int[3];
+            int index = 0;
+
+            while (index < 3)
+            {
+                numbers[index] = random.Next(0, 10);
+
+                bool hasDuplicate = false;
+                for (int i = 0; i < index; i++)
+                {
+                    if (numbers[index] == numbers[i])
+                    {
+                        hasDuplicate = true;
+                        break;
+                    }
+                }
+
+                if (!hasDuplicate)
+                {
+                    index++;
+                }
+            }                                                                                       // 10-3
+
+            /*Console.WriteLine("> 수비수가 고른 숫자");
             for (int i = 0; i < 3; i++)
             {
                 Console.WriteLine(numbers[i]);
-            }                                                                                       // 9-5
+            }*/                                                                                       // 9-5
 
             int[] guesses = new int[3];
             string[] inputMessages = { "> 첫 번째 숫자를 입력하세요.", "> 두 번째 숫자를 입력하세요.", "> 세 번째 숫자를 입력하세요." };
